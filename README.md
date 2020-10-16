@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tommy HA 👋  
 
-- 🔭 A creative technologist, looking to improve the humankind and the way we create software. 
-- 😄 Like to speak with people, and learn new things about software, life, fishing, . 
+- 🔭 A creative technologist, looking to improve the humankind and the way we create and use technology. 
+- 😄 Like to speak with people, and learn new things about life, software, technology, fishing, . 
 - 💬 let's talk. 
 
 
