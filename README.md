@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Tommy HA 👋  
+I am: programmer, engineer, designer, manager, hardware hacker.
 
-- 🔭 A creative technologist, looking to improve the humankind and the way we create and use technology. 
-- 😄 Like to speak with people, and learn new things about life, software, technology, fishing, . 
+- 🔭 I'm a creative technologist, basically, I think and work in the intersection of Creativity, security, technology, and people.
+- 📫 These days I do more technology and people management than anything else. I suppose that's the natural evolution of things. 
+- 😄 looking to improve the humankind and the way we create and use technology. 
+- 😄 Like to speak with people, and learn new things about life, software, technology, and fishing. 
 - 💬 let's talk. 
 
 
