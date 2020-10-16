@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Tommy HA 👋  
+
+- 🔭 A creative technologist, looking to improve the humankind and the way we create software. 
+- 😄 Like to speak with people, and learn new things about software, life, fishing, . 
+- 💬 let's talk. 
+
 
 <!--
 **tommyha/tommyha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
