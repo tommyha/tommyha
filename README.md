@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tommy HA 👋  
-I am: programmer, engineer, designer, manager, hardware hacker.
+I am a A hybrid of: programmer, engineer, designer, manager, hardware hacker and weekend angler.
 
 - 🔭 I'm a creative technologist, basically, I think and work in the intersection of Creativity, security, technology, and people.
 - 📫 These days I do more technology and people management than anything else. I suppose that's the natural evolution of things. 
